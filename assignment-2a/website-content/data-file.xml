@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<savory>
+<plant>
+    <name>Rosemary</name>
+    <price>8$</price>
+    <information>Supports memory enhancement by the scent of Rosemary can help relieve stress, reduce drowsiness, stimulate the brain to remember effectively. - As raw materials for the production of lotions, lotions, bath water, conditioners, hair dyes, soaps,... - Contains many nutrients such as calcium, iron, vitamin B6,...</information>    
+</plant>
+<plant>
+    <name>Thyme</name>
+    <price>8$</price>
+    <information>Its seductive scent brings a pleasant feeling, helps people relax, improves the spirit and creates a more attractive aroma for the dishes.</information>    
+</plant>
+<plant>
+    <name>Lemon balm</name>
+    <price>6$</price>
+    <information>Lemon balm tea is in the top 8 most exotic and premium teas in the world. People with headaches, heart palpitations or digestive problems should also use this herbal tea.</information>
+</plant>
+</savory>
+<in-house-tree>
+<tree>
+    <name>Dracaena draco L</name>
+    <price>15$</price>
+    <information>Dracaena draco brings glossy dark green leaves, in the season the trees will bloom in clusters of small yellow flowers.</information>
+</tree>
+<tree>
+    <name>Cordyline terminalis</name>
+    <price>15$</price>
+    <information>It is a plant that likes sunshine, wind and hot and humid weather, so it is very sought after in Southeast Asian countries.</information>
+</tree>
+</in-house-tree
