@@ -18,7 +18,7 @@ This project is to create a website for a shop, which is for selling trees and p
 * Support from new website:
 	+ Customers, who come to the website will have generaly view about shop.
 	+ Products will be classified and have detailed information.
-*Website requirements:
+* Website requirements:
 	+ Well structured organization.
 	+ Having light color as background.
 	+ Always includes pictures of products when possible.
