@@ -2,36 +2,29 @@
 
 This site is made for the Assignment to the WebDocument course of BTU-Cotbus-Senftenberg in WiSe 20/21
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Web Developers
+* **Andreas Eberle** -- [eberland@b-tu.de](mailto:eberland@b-tu.de)
+* **Minh Duc Bui** --[buiminhd@b-tu.de](mailto:buiminhd@b-tu.de)
 
-### Markdown
+### Project description - Business description
+This project is to create a website for a shop, which is for selling trees and plants.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SirPando/web_document_T02/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Official name of business or shop: Sunny Garden.
+* Address / physical presence: No. 78 Xa Dan street, Dong Da district, (10000) Hanoi, Vietnam.
+* Contact information:
+	+ E-mail: nangochonaychokia@gmail.com
+	+ Phone numbers: +84 878211389
+	+ Facebook: www.facebook.com/nangochonaychokia
+* A brief portrait of customer's business: Selling and providing information about in-house trees and plants for all customers.
+* Support from new website:
+	+ Customers, who come to the website will have generaly view about shop.
+	+ Products will be classified and have detailed information.
+* Website requirements:
+	+ Well structured organization.
+	+ Having light color as background.
+	+ Always includes pictures of products when possible.
+	+ Includes small but enough information about shop at footer of website.
+* Website content:
+	+ List of plants and trees, including their information, how to care, where to place,...
+	+ Separate areas for each type of plants and for accessories.
+	+ Contact of shop and shoper owner.
