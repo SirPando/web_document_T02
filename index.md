@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Sunny Garden
 
 You can use the [editor on GitHub](https://github.com/SirPando/web_document_T02/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
