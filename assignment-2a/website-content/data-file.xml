@@ -1,30 +1,186 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <savory>
-<plant>
-    <name>Rosemary</name>
-    <price>8$</price>
-    <information>Supports memory enhancement by the scent of Rosemary can help relieve stress, reduce drowsiness, stimulate the brain to remember effectively. - As raw materials for the production of lotions, lotions, bath water, conditioners, hair dyes, soaps,... - Contains many nutrients such as calcium, iron, vitamin B6,...</information>    
-</plant>
-<plant>
-    <name>Thyme</name>
-    <price>8$</price>
-    <information>Its seductive scent brings a pleasant feeling, helps people relax, improves the spirit and creates a more attractive aroma for the dishes.</information>    
-</plant>
-<plant>
-    <name>Lemon balm</name>
-    <price>6$</price>
-    <information>Lemon balm tea is in the top 8 most exotic and premium teas in the world. People with headaches, heart palpitations or digestive problems should also use this herbal tea.</information>
-</plant>
+    <plant>
+        <name>Rosemary</name>
+        <price>6$</price>
+        <information>Supports memory enhancement by the scent of Rosemary can help relieve stress, reduce drowsiness, stimulate the brain to remember effectively. - As raw materials for the production of lotions, lotions, bath water, conditioners, hair dyes, soaps,... - Contains many nutrients such as calcium, iron, vitamin B6,...</information>    
+    </plant>
+    <plant>
+        <name>Thyme</name>
+        <price>6$</price>
+        <information>Its seductive scent brings a pleasant feeling, helps people relax, improves the spirit and creates a more attractive aroma for the dishes.</information>    
+    </plant>
+    <plant>
+        <name>Lemon Balm</name>
+        <price>6$</price>
+        <information>Lemon balm tea is in the top 8 most exotic and premium teas in the world. People with headaches, heart palpitations or digestive problems should also use this herbal tea.</information>
+    </plant>
+    <plant>
+        <name>Chocomint</name>
+        <price>6$</price>
+        <information>Chocomints come from the peppermint family, so they have peppermint-like properties, and chocolate is a newly formed property. In addition to its use in cooking and baking, if you are a rose grower, planting more chocomints covered with orchids under the roots is a way to raise natural enemies to repel many harmful insects. Chocomints grow best in full light, but can still grow in low light. They are suitable for most soil types and are very moist.</information>
+    </plant>
+    <plant>
+        <name>Elsholtzia Ciliata</name>
+        <price>6$</price>
+        <information>Elsholtzia Ciliata is easy to grow and has few pests and diseases. It is persistent and lush all year round when fully watered. But you should note that on a rainy day, it is necessary to avoid waterlogged plants, leading to root rot which will be harmful to the tree.</information>
+    </plant>
+    <plant>
+        <name>Euromint</name>
+        <price>6$</price>
+        <information>European mint (Euromint) is the most superior mint variety because it grows quickly and has less pests than other mint lines. Used for extracting essential oils, making tea, making facial cleansers, blending smoothies, seasoning dishes and medicinal herbs.</information>
+    </plant>
+    <plant>
+        <name>Japanese Mint</name>
+        <price>6$</price>
+        <information>Contains the highest amount of essential oils of any mint. Extremely strong mint flavor, add a few mint leaves to a fruit smoothie to create a pleasant, cool and pleasant aroma. The tree tends to grow tall, straight up and long, when harvested, it can be cut close to the base to give the tree many new branches.</information>
+    </plant>
+    <plant>
+        <name>Oregano</name>
+        <price>6$</price>
+        <information>The leaves of the Oregano tree, small in size, soft like velvet, are very pleasant to the touch because of the hairy layer on the leaves. Normally, Oregano leaf is known as a spice used in processing to enhance the flavor of dishes and is also a rare herb that has the effect of curing a number of diseases. In processing, dried oregano leaves are often used to bake baked goods. If it is fresh, it is often eaten raw by Westerners or used as a condiment for Italian cuisine.</information>
+    </plant>
+    <plant>
+        <name>Parsley</name>
+        <price>6$</price>
+        <information>It is a tree native to the Mediterranean coast. As a food with a very specific taste, it contains a lot of vitamins C, B1, B2, potassium ... so it is often sprinkled by chefs or decorated on dishes. In addition, Parsley is also valuable as a breath freshener due to its high concentration of chlorophyll, mental alertness, and a good effect on the immune system, so many people use it as a drink to detox.</information>
+    </plant>
+    <plant>
+        <name>Perilla</name>
+        <price>6$</price>
+        <information>Perilla is easy to grow and has few pests and diseases. It is persistent and lush all year round when fully watered. But you should note that on a rainy day, it is necessary to avoid waterlogged plants, leading to root rot which will be harmful to the tree.</information>
+    </plant>
 </savory>
-<in-house-tree>
-<tree>
-    <name>Dracaena draco L</name>
-    <price>15$</price>
-    <information>Dracaena draco brings glossy dark green leaves, in the season the trees will bloom in clusters of small yellow flowers.</information>
-</tree>
-<tree>
-    <name>Cordyline terminalis</name>
-    <price>15$</price>
-    <information>It is a plant that likes sunshine, wind and hot and humid weather, so it is very sought after in Southeast Asian countries.</information>
-</tree>
-</in-house-tree
+
+<in-house-plant>
+    <plant>
+        <name>Dracaena Draco L</name>
+        <price>15$</price>
+        <information>Dracaena draco brings glossy dark green leaves, in the season the plants will bloom in clusters of small yellow flowers.</information>
+    </plant>
+    <plant>
+        <name>Cordyline Terminalis</name>
+        <price>15$</price>
+        <information>It is a plant that likes sunshine, wind and hot and humid weather, so it is very sought after in Southeast Asian countries.</information>
+    </plant>
+    <plant>
+        <name>Aglaonema Rotundum Pink</name>
+        <price>12$</price>
+        <information>The distinguishing feature of Aglaonema Rotundum Pink is its slender green trunk and eye-catching red-pink pigmented leaves. Normally when the plant leaves, the young leaves will have a light pink color, green edges and green spots on the surface along the veins. But instead, the older they get, the fewer blue spots they have, and the pink and red spread, vibrantly true to the color of the festival.</information>
+    </plant>
+    <plant>
+        <name>Alocasia Odora</name>
+        <price>12$</price>
+        <information>Alocasia Odora as well as two cousins of the Araceae family have shared that they have succulent leaves and stems, so they like moisture and shade. In the right natural conditions, this plant can grow quickly and its leaves are as big as a person. Planting a few bushes in the home garden is an instant feeling of great vivid tropical rainforest with cool green colors.</information>
+    </plant>
+    <plant>
+        <name>Anthurium Andraeanum</name>
+        <price>9$</price>
+        <information>Its shiny red flowers flutter in the sun, and Anthurium Andraeanum is also a hermaphroditic plant, so the flowers bloom continuously as long as it has enough moisture and well fertilized.</information>
+    </plant>
+    <plant>
+        <name>Begonia</name>
+        <price>6$</price>
+        <information>Begonia has a small family with different color on their leaves. You can find in our shop four of them: Tiger paws, Fire woman, Red kiss and Salsa rex.</information>
+    </plant>
+    <plant>
+        <name>Buterfly Wing</name>
+        <price>6$</price>
+        <information>Buterfly Wing is from the same family of Fabaceae. The flower is purple, pink, pink, and delicately bell-shaped, swaying with the leaves, like a graceful butterfly. The reason it is called a moth is because the tree has a habit of "sleeping" at night, the leaves are all folded up like a butterfly's wings. As a plant that likes cool and wet, it should be placed in a shaded or sunny place, so it is suitable as an interior tree, office tree.</information>
+    </plant>
+    <plant>
+        <name>Calathea Golden Mosaic</name>
+        <price>18$</price>
+        <information>Each leaf of this plant resembles a meticulously hand-painted watercolor work, giving it a unique and luxurious look. It likes moisture and of course sunny for its big leaves.</information>
+    </plant>
+    <plant>
+        <name>Calathea Zebrina</name>
+        <price>12$</price>
+        <information>In addition to the meaning of all other Calathea, this Zebrina also has a large set of leaves with a glossy dark green color. Along with that, the leaf pattern has a very unique beauty, standing out on the green background are purple and pink stripes like super thin herringbones.</information>
+    </plant>
+    <plant>
+        <name>Calathea Zebrina</name>
+        <price>12$</price>
+        <information>In addition to the meaning of all other Calathea, this Zebrina also has a large set of leaves with a glossy dark green color. Along with that, the leaf pattern has a very unique beauty, standing out on the green background are purple and pink stripes like super thin herringbones.</information>
+    </plant>
+    <plant>
+        <name>Ctenanthe Burle Marxii Amagris</name>
+        <price>12$</price>
+        <information>Ctenanthe Burle Marxii Amagris is a very distinctive colored variety, with a silvery green upper leaf blade, small herringbone-like veins, a lovely round, elongated leaf shape, and is really uncommon. Ctenanthe Burle Marxii Amagris is suitable for placing on the table but if you want to grow into a large bush that can be transferred to a potted soil, you will soon be surprised by how quickly they grow.</information>
+    </plant>
+    <plant>
+        <name>Ctenanthe Burle Marxii Amagris</name>
+        <price>12$</price>
+        <information>Ctenanthe Burle Marxii Amagris is a very distinctive colored variety, with a silvery green upper leaf blade, small herringbone-like veins, a lovely round, elongated leaf shape, and is really uncommon. Ctenanthe Burle Marxii Amagris is suitable for placing on the table but if you want to grow into a large bush that can be transferred to a potted soil, you will soon be surprised by how quickly they grow.</information>
+    </plant>
+    <plant>
+        <name>Fishbone Cactus</name>
+        <price>8$</price>
+        <information>Fishbone Cactus is diverse in color and blooms during the day. This plant has a special feature that there are almost no leaves, only stems and flowers. As a member of the cactus family, Fishbone Cactus is extremely easy to care for, growing indoors or outdoors is still ok, but if you put it indoors, find a corner with sunlight. Along with that, the soil needs to be loose and drained for the best growth.</information>
+    </plant> loniceraPericlymenum
+    <plant>
+        <name>Maiden Hair</name>
+        <price>10$</price>
+        <information>Maiden Hair is a cool, moist fern that is commonly found along streams. The technique of growing Venus's hair indoors, in addition to being an ornamental plant, can also absorb harmful gases in the environment such as formic aldehydes, which have the effect of cleaning the air, improving the living environment as well as helping to sleep well if you put it in your bedroom.</information>
+    </plant>
+    <plant>
+        <name>Pachira Aquatica</name>
+        <price>18$</price>
+        <information>Pachira Aquatica likes moist and fertile soil, but that doesn't mean you have to water Pachira Aquatica every day, just enough to keep the soil from drying out. In addition, the sunlight is not too harsh, it will be good for Pachira Aquatica, next to the window or on the balcony</information>
+    </plant>
+    <plant>
+        <name>Philodendron Birkin</name>
+        <price>18$</price>
+        <information>It carries a strong, sturdy, upright beauty that represents nobility. Because of its high size and large leaf spread, the tree is extremely suitable for placing in the living room or office. The plant is easy to care for and does not require much, you can grow it in places with medium and low light such as indoor or office space.</information>
+    </plant>
+    <plant>
+        <name>Phyllanthus Cochinchinensis Muell</name>
+        <price>18$</price>
+        <information>The plant is native to Asia in tropical areas. It is considered a shrub-like tree, because the main stem perennials grow from 1m-3m high and turn into small wood, but grow many branches and give rise to many seedlings next to them, forming luxuriant bushes. The branches are long and fall to the ground, often divided into beautiful floating layers.</information>
+    </plant>
+    <plant>
+        <name>Plectranthus Hadiensis</name>
+        <price>12$</price>
+        <information>This plant originates from South Africa and has spread to many countries. The average height of the tree is 10-20 cm. The trunk and branches are small, succulent inside and often grow into a bush. Plectranthus Hadiensis has flowers, that grow straight from the petiole, are clustered and purple in color. The flower is small but has a pleasant fragrance. The plant is moisture-loving, heat-tolerant and poorly waterlogged. The right environment for growing plants is in cool shaded places.</information>
+    </plant>
+    <plant>
+        <name>Portulacaria Afra</name>
+        <price>20$</price>
+        <information>Normally, all kinds of succulents are stemless, but this one "dollar baby" has a burgundy stem with symmetrical branches that spread out. You do not need to water too much, just "refreshing" the plant about twice a week is enough for it to live all year round.</information>
+    </plant>
+    <plant>
+        <name>Primulaceae</name>
+        <price>10$</price>
+        <information>Although it is a herbaceous plant, this baby has a very strong vitality, the plant likes the cool climate of spring and is also very easy to take care of. You just need to put it in a place with soft sunlight or just enough diffused light, on the windowsill or on the balcony. In addition, flowers also need to be guaranteed a sufficient amount of water, you should water in the morning so that the leaves dry quickly and the top of the plant does not stagnate.</information>
+    </plant>
+    <plant>
+        <name>Rhaphidophora Tetrasperma</name>
+        <price>18$</price>
+        <information>Because it is a climbing plant, you can let the plant grow naturally or use a damp moss-covered pole to keep the tree upright, either way is fine. As an uncommon type, the number of trees is very limited.</information>
+    </plant>
+    <plant>
+        <name>Snake Plant</name>
+        <price>12$</price>
+        <information>Snake Plant is a tree with strong vitality, but you should not forget them because of that. Put the plant in enough light with a little shade and it's great. And you should be extremely careful when watering, try to keep the soil not too wet, too much water can damage the roots of the plant, so I only need to water just enough on the surface of the soil, usually 2-3. I water it once a week.</information>
+    </plant>
+    <plant>
+        <name>Spanis Eyes Lavender</name>
+        <price>15$</price>
+        <information>As a tropical Lavender line that can withstand ambient temperatures up to 40 degrees, it is widely grown in hot and humid climates. The plant has small, flattened leaves that look like pine needles, but have an aroma like chrysanthemum. Fragile purple flowers bloom with thick wings that are super seductive.</information>
+    </plant>
+    <plant>
+        <name>Spanis Eyes Lavender</name>
+        <price>18$</price>
+        <information>Although the marble pattern on the leaves is enough to make the plant attractive, it is still dotted with sweet purple and pink. The underside of the leaves are ingenious color transitions. Besides, the plant can bloom continuously if the climate is cool. Their flowers usually bloom in the early morning and grow faster when placed in a place with lots of light. Plants can filter volatile organic substances, environmental pollutants and irritants to the respiratory system.</information>
+    </plant>
+    <plant>
+        <name>Triostar</name>
+        <price>20$</price>
+        <information>It needs a lot of care and nurturing to keep it thriving only in the exact environment it likes to live in. This plant grows best in warm, humid conditions, and this is why they tend to be an ideal houseplant, placed in a window with enough indirect light. But avoid keeping the plant near fireplaces or air conditioners. Rotating the plant around once a week can help ensure a good, even distribution of the leaves as they will grow in the direction the light hits them. Misting can also help create much-needed moisture. Triostar should be planted in a pot with fertile, well-drained soil that is kept moist but not soggy.</information>
+    </plant>
+    <plant>
+        <name>Watermelon Peperomia</name>
+        <price>12$</price>
+        <information>With its compact shape, Watermelon Peperomia is very popular for growing indoors and decorating in offices. You can choose to grow Watermelon Peperomia in pots or hanging baskets, both reasonable and beautiful. As long as you make sure the soil and pot are well drained, the plant will grow and develop well. Most species of Peperomia grow very quickly in direct light, but too much light will fade the bright colors of the beautiful foliage.</information>
+    </plant>
+</in-house-plant
