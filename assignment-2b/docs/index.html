@@ -1,10 +1,76 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Title</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sunny Garden</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+
 </head>
+
 <body>
-<h1>Sunny Garden</h1>
+
+<header>
+    <h2>
+        <!-- <img class="logo" srcset="assets/img/logo.svg" alt="logo"> -->
+
+        <div class="logo-svg">
+            <img src="https://raw.githubusercontent.com/Bahramrj/sunnygarden/main/assets/img/logo.svg" class="img-fluid" alt="Sunny Garden">
+        </div>
+
+    </h2>
+    <nav>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="#best-products">Products</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="#">Contacts</a></li>
+    </nav>
+</header>
+
+
+<section class="main-view">
+    <div class="background-image" style="background-image: url(assets/img/background2.svg);"></div>
+    <h1>Wellcome to</h1>
+    <p>Sunny Garden</p>
+    <h3>A website for buying house trees and plants</h3>
+    <div>
+        <a href="#best-products" class="btn">Top selling products</a>
+    </div>
+</section>
+
+
+<section class="best-products" id="best-products">
+    <h3 class="title">Some of our Products</h3>
+    <p>Here you can see our best selling products</p>
+    <hr>
+
+    <ul class="grid">
+        <li class="small" style="background-image: url(assets/img/aglaonemaRotundumPink.jpg);"><a class="box" href="about.html"></a> </li>
+        <li class="small" style="background-image: url(assets/img/alocasiaOdora.jpg);"></li>
+        <li class="small" style="background-image: url(assets/img/anthuriumAndraeanum.jpg);"></li>
+        <li class="small" style="background-image: url(assets/img/begonia.jpg);"></li>
+    </ul>
+    <a href="#best-products" class="btn">See all products</a>
+
+</section>
+
+<footer>
+    <ul>
+
+        <li><a target="_blank" href="https://www.facebook.com/nangochonaychokia"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+
+
+    </ul>
+    <p>Selling and providing information about in-house trees and plants for all customers</p>
+    <p>Copyright Sunny Garden</p>
+</footer>
+
 </body>
+
 </html>
