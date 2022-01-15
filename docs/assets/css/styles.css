@@ -382,6 +382,68 @@ header nav li:last-child{
  	about
 ---------------------*/
 
+/*--------------------
+ 	contact
+---------------------*/
+
+.contact{
+	position: relative;
+	justify-content: center;
+	min-height: 100vh;
+	color: #E5E9E0;
+	text-align: center;
+	flex-direction: row-reverse;
+}
+
+.contact .text{
+	flex-direction: column;
+
+}
+
+
+.contact .background-image{
+	position: absolute;
+	background-repeat: no-repeat;
+	background-position: center;
+	filter: blur(6px);
+	top: 20px;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-size: 40%;
+	z-index: -1;
+	opacity: 0.55;
+}
+
+.contact h4{
+	font: bold 40px 'Open Sans', sans-serif;
+	margin-bottom: 10px;
+	margin-top: 35px;
+	color: #414a4f;
+}
+
+.contact p {
+	font: normal 25px 'Open Sans', sans-serif;
+	text-align: left;
+	margin-bottom: 10px;
+	color: #414a4f;
+}
+
+.contact a{
+	color: olive;
+	border-bottom: olive 0.125em solid
+}
+@media (max-width: 700px) {
+	.contact {
+		flex-direction: column;
+	}
+}
+
+/*--------------------
+ 	contact
+---------------------*/
+
+
 /*-------------
  	Footer
 -------------*/

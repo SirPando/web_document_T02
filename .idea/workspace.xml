@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ce486e3-ae23-4ca7-839d-a1b9985a5d9a" name="Changes" comment="add best-selling products to styles.css">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
+    <list default="true" id="1ce486e3-ae23-4ca7-839d-a1b9985a5d9a" name="Changes" comment="fix header in all html">
       <change beforePath="$PROJECT_DIR$/docs/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/p001.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/p001.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +63,7 @@
       <workItem from="1642195202067" duration="93000" />
       <workItem from="1642195307573" duration="700000" />
       <workItem from="1642196054863" duration="1768000" />
-      <workItem from="1642253659467" duration="2376000" />
+      <workItem from="1642253659467" duration="2770000" />
     </task>
     <task id="LOCAL-00001" summary="test git desktop">
       <created>1642195807252</created>
@@ -91,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642204001205</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix header in all html">
+      <created>1642259592989</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1642259592989</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +127,7 @@
     <MESSAGE value="test git desktop" />
     <MESSAGE value="add p001.html ( single product )" />
     <MESSAGE value="add best-selling products to styles.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="add best-selling products to styles.css" />
+    <MESSAGE value="fix header in all html" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix header in all html" />
   </component>
 </project>
