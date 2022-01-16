@@ -124,13 +124,6 @@ header h2{
 	font-family: 'Quicksand', sans-serif;
 }
 
-/*header h2 .logo{
-	display: flex
-}
-header h2 .logo{
-	margin-left: 0;
-}
-*/
 
 .logo-svg{
 	width: 150px;
@@ -145,16 +138,8 @@ header nav{
 	display: flex;
 }
 
-header nav li{
+header nav a{
 	margin: 0 15px;
-}
-
-header nav li:first-child{
-	margin-left: 0;	
-}
-
-header nav li:last-child{
-	margin-right: 0;	
 }
 
 
