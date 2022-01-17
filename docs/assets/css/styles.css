@@ -328,6 +328,17 @@ header nav a{
 	margin-top: 100px;
 }
 
+.shop .grid .fa-tree{
+	font-size: 60px;
+	color: #659737;
+	margin-bottom: 25px;
+}
+
+.shop .grid .fa-leaf{
+	font-size: 60px;
+	color: #973737;
+	margin-bottom: 25px;
+}
 
 .shop .grid li h4{
 	color: #555;
@@ -356,6 +367,7 @@ header nav a{
 	z-index: -1;
 	opacity: 0.55;
 }
+
 
 @media (max-width: 1000px){
 
