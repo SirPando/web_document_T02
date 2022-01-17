@@ -201,7 +201,7 @@ header nav a{
 .main-view .normal{
 	font: normal 40px 'Open Sans', sans-serif;
 	margin-bottom: 10px;
-	margin-top: 75px;
+	margin-top: 100px;
 	color: #414a4f;
 }
 
@@ -233,12 +233,16 @@ header nav a{
 		min-height: 600px;
 	}
 
-	.main-view h1{
-		font-size: 48px;
+	.main-view .effect{
+		font-size: 50px;
 	}
 
-	.main-view h3{
-		font-size: 24px;
+	.main-view .normal{
+		font-size: 30px;
+	}
+
+	.main-view .normal2{
+		font-size: 30px;
 	}
 
 	.main-view a.btn{
