@@ -379,3 +379,70 @@ footer p a{
 	}
 
 }
+
+/*--------------------
+ 	shop
+---------------------*/
+
+.shop{
+	position: relative;
+	justify-content: center;
+	min-height: 100vh;
+	text-align: center;
+}
+ .shop ul{
+	 padding-top: 40px;
+ }
+.shop .grid div{
+	padding: 0 100px;
+	flex-basis: 33%;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+}
+
+.shop h3 {
+	margin-top: 100px;
+}
+
+
+.shop .grid li h4{
+	color: #555;
+	font-size: 20px;
+	margin-bottom: 25px;
+}
+
+.shop a {
+	text-decoration: underline;
+	padding-top: 20px;
+	font-size: 25px;
+	text-align: left;
+
+}
+
+
+@media (max-width: 1000px){
+
+	.shop .grid li{
+		flex-basis: 70%;
+		margin-bottom: 65px;
+	}
+
+	.shop .grid li:last-child{
+		margin-bottom: 0;
+	}
+
+}
+
+
+@media (max-width: 600px){
+
+	.shop .grid li{
+		flex-basis: 100%;
+	}
+
+}
+
+/*--------------------
+ 	shop
+---------------------*/
