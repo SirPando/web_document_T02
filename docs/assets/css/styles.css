@@ -604,13 +604,13 @@ footer{
 	text-align: center;
 	color: #fff;
 	background-color: darkolivegreen;
-	padding: 20px 0;
+	padding: 14px 0;
 }
 
 footer ul{
 	display: flex;
-	margin-bottom: 25px;
-	font-size: 32px;
+	margin-bottom: 17px;
+	font-size: 26px;
 }
 
 footer ul li{
@@ -627,13 +627,21 @@ footer ul li:last-child{
 
 footer p{
 	text-transform: uppercase;
-	font-size: 16px;
+	font-size: 14px;
 	color: rgba(255,255,255,0.6);
-	margin-bottom: 10px;
+	margin-bottom: 6px;
 }
 
 footer p a{
 	color: #fff;
+}
+
+footer .fa-facebook{
+	color: #5b91cb;
+}
+
+footer .fa-envelope{
+	color: #d97e6a;
 }
 
 @media (max-width: 700px){
