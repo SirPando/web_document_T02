@@ -156,6 +156,10 @@ header nav a{
 		flex-direction: column;		
 	}
 
+	header .logo-svg{
+		margin-bottom: -20px;
+	}
+
 	header h2{
 		margin-bottom: 15px;
 	}
@@ -199,7 +203,7 @@ header nav a{
 .main-view .normal{
 	font: normal 40px 'Open Sans', sans-serif;
 	margin-bottom: 10px;
-	margin-top: 40px;
+	margin-top: 75px;
 	color: #414a4f;
 }
 
@@ -397,7 +401,7 @@ header nav a{
 	height: auto;
 	border-radius: 25px;
 	border: #414a4f 3px solid;
-	margin-top: 60px;
+	margin-top: 100px;
 }
 .single-product .text{
 	flex-direction: column;
@@ -511,7 +515,7 @@ header nav a{
 .about h4{
 	font: bold 40px 'Open Sans', sans-serif;
 	margin-bottom: 10px;
-	margin-top: 35px;
+	margin-top: 110px;
 	color: #414a4f;
 }
 
@@ -567,7 +571,7 @@ header nav a{
 .contact h4{
 	font: bold 40px 'Open Sans', sans-serif;
 	margin-bottom: 10px;
-	margin-top: 35px;
+	margin-top: 80px;
 	color: #414a4f;
 }
 
@@ -647,7 +651,7 @@ footer .fa-envelope{
 @media (max-width: 700px){
 
 	footer{
-		padding: 80px 15px;
+		padding: 10px 15px;
 	}
 
 }
