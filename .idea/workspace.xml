@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ce486e3-ae23-4ca7-839d-a1b9985a5d9a" name="Changes" comment="fix header in all html">
+    <list default="true" id="1ce486e3-ae23-4ca7-839d-a1b9985a5d9a" name="Changes" comment="home mobile view font size">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +38,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="ProjectId" id="23hnN5QlMHKfb2bjgXN8sXI4Ck4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -64,6 +67,13 @@
       <workItem from="1642195307573" duration="700000" />
       <workItem from="1642196054863" duration="1768000" />
       <workItem from="1642253659467" duration="2770000" />
+      <workItem from="1642441560613" duration="1679000" />
+      <workItem from="1642445118469" duration="813000" />
+      <workItem from="1643120553168" duration="2222000" />
+      <workItem from="1643154985067" duration="231000" />
+      <workItem from="1643364496168" duration="389000" />
+      <workItem from="1643468959926" duration="167000" />
+      <workItem from="1643596810434" duration="3825000" />
     </task>
     <task id="LOCAL-00001" summary="test git desktop">
       <created>1642195807252</created>
@@ -93,7 +103,35 @@
       <option name="project" value="LOCAL" />
       <updated>1642259592989</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix logo overlap links in mobile view">
+      <created>1642440947045</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1642440947045</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix logo overlap links in mobile view styles.css">
+      <created>1642442291800</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1642442291800</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add two more products">
+      <created>1642444630954</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1642444630954</updated>
+    </task>
+    <task id="LOCAL-00008" summary="home mobile view font size">
+      <created>1642445942334</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1642445942334</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +166,10 @@
     <MESSAGE value="add p001.html ( single product )" />
     <MESSAGE value="add best-selling products to styles.css" />
     <MESSAGE value="fix header in all html" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix header in all html" />
+    <MESSAGE value="fix logo overlap links in mobile view" />
+    <MESSAGE value="fix logo overlap links in mobile view styles.css" />
+    <MESSAGE value="add two more products" />
+    <MESSAGE value="home mobile view font size" />
+    <option name="LAST_COMMIT_MESSAGE" value="home mobile view font size" />
   </component>
 </project>

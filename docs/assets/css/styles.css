@@ -275,11 +275,18 @@ header nav a{
 	flex-basis: 40%;
 	border-radius: 30px;
 }
-
-.best-products .grid li.large{
-	flex-basis: 60%;
+.best-products .grid .p1{
+	background-image: url("/docs/assets/img/rosemary.jpg");
 }
-
+.best-products .grid .p2{
+	background-image: url("/docs/assets/img/thyme.jpg");
+}
+.best-products .grid .p3{
+	background-image: url("/docs/assets/img/cordylineTerminalis.jpg");
+}
+.best-products .grid .p4{
+	background-image: url("/docs/assets/img/anthuriumAndraeanum.jpg");
+}
 
 .best-products .grid a{
 	display: inline-block;
