@@ -119,8 +119,12 @@ header{
 	padding-bottom: 35px;
 }
 
-header h2{
-	font-family: 'Quicksand', sans-serif;
+
+header .logo .logo-text{
+	font: bold 20px 'Quicksand', sans-serif;
+	color: #fff;
+	position: relative;
+	bottom: 15px;
 }
 
 
@@ -149,9 +153,12 @@ header nav a{
 }
 
 
-@media (max-width: 700px){
+@media (max-width: 800px){
 	header{
 		flex-direction: column;
+	}
+	header .logo-img{
+		display: none;
 	}
 
 	header .logo-svg{
@@ -337,7 +344,7 @@ header nav a{
 	flex-direction: column;
 }
 
-.shop h3 {
+.shop h2 {
 	margin-top: 100px;
 }
 
@@ -353,7 +360,12 @@ header nav a{
 	margin-bottom: 25px;
 }
 
-.shop .grid li h4{
+.shop .grid li h4 {
+	color: #555;
+	font-size: 20px;
+	margin-bottom: 25px;
+}
+.shop .grid li h3 {
 	color: #555;
 	font-size: 20px;
 	margin-bottom: 25px;
@@ -461,7 +473,7 @@ header nav a{
 	opacity: 0.75;
 }
 
-.single-product h4{
+.single-product h2{
 	font: bold 40px 'Open Sans', sans-serif;
 	text-align: left;
 	margin-bottom: 10px;
@@ -542,7 +554,7 @@ header nav a{
 	opacity: 0.75;
 }
 
-.about h4{
+.about h2{
 	font: bold 40px 'Open Sans', sans-serif;
 	margin-bottom: 10px;
 	margin-top: 110px;
@@ -599,7 +611,7 @@ header nav a{
 	opacity: 0.55;
 }
 
-.contact h4{
+.contact h2{
 	font: bold 40px 'Open Sans', sans-serif;
 	margin-bottom: 10px;
 	margin-top: 80px;
