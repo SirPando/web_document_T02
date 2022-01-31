@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ce486e3-ae23-4ca7-839d-a1b9985a5d9a" name="Changes" comment="fix img path in css">
+    <list default="true" id="1ce486e3-ae23-4ca7-839d-a1b9985a5d9a" name="Changes" comment="remove style form all HTMLs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/css/styles.css" afterDir="false" />
@@ -84,7 +84,8 @@
       <workItem from="1643154985067" duration="231000" />
       <workItem from="1643364496168" duration="389000" />
       <workItem from="1643468959926" duration="167000" />
-      <workItem from="1643596810434" duration="5813000" />
+      <workItem from="1643596810434" duration="6162000" />
+      <workItem from="1643649822807" duration="2832000" />
     </task>
     <task id="LOCAL-00001" summary="test git desktop">
       <created>1642195807252</created>
@@ -156,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643602362965</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="remove style form all HTMLs">
+      <created>1643603534909</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1643603534909</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +205,7 @@
     <MESSAGE value="home mobile view font size" />
     <MESSAGE value="remove styles from HTML" />
     <MESSAGE value="fix img path in css" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix img path in css" />
+    <MESSAGE value="remove style form all HTMLs" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove style form all HTMLs" />
   </component>
 </project>
