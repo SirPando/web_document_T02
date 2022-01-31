@@ -276,16 +276,16 @@ header nav a{
 	border-radius: 30px;
 }
 .best-products .grid .p1{
-	background-image: url("/docs/assets/img/rosemary.jpg");
+	background-image: url("../img/rosemary.jpg");
 }
 .best-products .grid .p2{
-	background-image: url("/docs/assets/img/thyme.jpg");
+	background-image: url("../img/thyme.jpg");
 }
 .best-products .grid .p3{
-	background-image: url("/docs/assets/img/cordylineTerminalis.jpg");
+	background-image: url("../img/cordylineTerminalis.jpg");
 }
 .best-products .grid .p4{
-	background-image: url("/docs/assets/img/anthuriumAndraeanum.jpg");
+	background-image: url("../img/anthuriumAndraeanum.jpg");
 }
 
 .best-products .grid a{
