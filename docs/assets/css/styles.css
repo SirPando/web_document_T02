@@ -178,6 +178,7 @@ header nav a{
 }
 
 .main-view .background-image{
+	background-image: url("../img/background2.svg");
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -367,6 +368,7 @@ header nav a{
 }
 
 .shop .background-image{
+	background-image: url("../img/shop.svg");
 	position: absolute;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -439,6 +441,7 @@ header nav a{
 }
 
 .single-product .background-image{
+	background-image: url("../img/background2.svg");
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -519,6 +522,7 @@ header nav a{
 }
 
 .about .background-image{
+	background-image: url("../img/background2.svg");
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -578,7 +582,9 @@ header nav a{
 
 }
 
-
+.background-image{
+	background-image: url("../img/contact.svg");
+}
 .contact .background-image{
 	position: absolute;
 	background-repeat: no-repeat;

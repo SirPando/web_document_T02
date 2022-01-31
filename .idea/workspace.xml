@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ce486e3-ae23-4ca7-839d-a1b9985a5d9a" name="Changes" comment="remove styles from HTML">
+    <list default="true" id="1ce486e3-ae23-4ca7-839d-a1b9985a5d9a" name="Changes" comment="fix img path in css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p001.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/p001.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p002.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/p002.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p003.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/p003.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p004.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/p004.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p005.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/p005.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p006.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/p006.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p007.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/p007.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/p008.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/p008.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/shop.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +84,7 @@
       <workItem from="1643154985067" duration="231000" />
       <workItem from="1643364496168" duration="389000" />
       <workItem from="1643468959926" duration="167000" />
-      <workItem from="1643596810434" duration="4935000" />
+      <workItem from="1643596810434" duration="5813000" />
     </task>
     <task id="LOCAL-00001" summary="test git desktop">
       <created>1642195807252</created>
@@ -137,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643601174740</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="fix img path in css">
+      <created>1643602362965</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1643602362965</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +196,7 @@
     <MESSAGE value="add two more products" />
     <MESSAGE value="home mobile view font size" />
     <MESSAGE value="remove styles from HTML" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove styles from HTML" />
+    <MESSAGE value="fix img path in css" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix img path in css" />
   </component>
 </project>
