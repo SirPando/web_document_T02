@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ce486e3-ae23-4ca7-839d-a1b9985a5d9a" name="Changes" comment="fix accessibility issues">
+    <list default="true" id="1ce486e3-ae23-4ca7-839d-a1b9985a5d9a" name="Changes" comment="Add website name in the header | fix h1 in all HTMLs | fix about.html missing XHTML.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/p001.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/p001.html" afterDir="false" />
@@ -85,7 +84,11 @@
       <workItem from="1643364496168" duration="389000" />
       <workItem from="1643468959926" duration="167000" />
       <workItem from="1643596810434" duration="6162000" />
-      <workItem from="1643649822807" duration="7675000" />
+      <workItem from="1643649822807" duration="8561000" />
+      <workItem from="1643829064007" duration="534000" />
+      <workItem from="1643835365283" duration="66000" />
+      <workItem from="1643837836767" duration="503000" />
+      <workItem from="1644220336871" duration="6033000" />
     </task>
     <task id="LOCAL-00001" summary="test git desktop">
       <created>1642195807252</created>
@@ -171,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643656248357</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Add website name in the header | fix h1 in all HTMLs | fix about.html missing XHTML.">
+      <created>1643667190523</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1643667190523</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,6 +224,7 @@
     <MESSAGE value="fix img path in css" />
     <MESSAGE value="remove style form all HTMLs" />
     <MESSAGE value="fix accessibility issues" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix accessibility issues" />
+    <MESSAGE value="Add website name in the header | fix h1 in all HTMLs | fix about.html missing XHTML." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add website name in the header | fix h1 in all HTMLs | fix about.html missing XHTML." />
   </component>
 </project>

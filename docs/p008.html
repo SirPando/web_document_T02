@@ -9,6 +9,13 @@
     <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png"/>
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png"/>
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png"/>
+    <link rel="manifest" href="site.webmanifest"/>
+    <link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5"/>
+    <meta name="msapplication-TileColor" content="#da532c"/>
+    <meta name="theme-color" content="#ffffff"/>
 
 </head>
 
@@ -30,17 +37,17 @@
 </header>
 
 
-<section class="single-product">
+<section class="single-product" itemscope itemtype="https://schema.org/Product">
     <div class="background-image"></div>
     <div>
-        <h2 class="text">Euromint</h2>
-        <p>Category: savory</p>
-        <p class="text">European mint (Euromint) is the most superior mint variety because it grows quickly and
+        <h2 class="text" itemprop="name">Euromint</h2>
+        <p itemprop="ProductGroup">Category: savory</p>
+        <p itemprop="description" class="text">European mint (Euromint) is the most superior mint variety because it grows quickly and
             has less pests than other mint lines. Used for extracting essential oils, making tea, making facial cleansers,
             blending smoothies, seasoning dishes and medicinal herbs. </p>
-        <P class="price"> Price: <span class="style">6$</span> <a href="#">click to Buy </a> </P>
+        <P class="price"> Price: <span itemprop="price" class="style">6$</span> <a href="#">click to Buy </a> </P>
     </div>
-    <img src="assets/img/euromint.jpg" alt="Euromint">
+    <img itemprop="image" src="assets/img/euromint.jpg" alt="Euromint">
 </section>
 
 
