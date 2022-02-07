@@ -1,14 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/html">
 <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="savory thyme"/>
     <title>Thyme | Sunny Garden</title>
-    <link rel="shortcut icon" href="assets/img/logo_fav.png" type="image/x-icon">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="shortcut icon" href="assets/img/logo_fav.png" type="image/x-icon"/>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="assets/css/styles.css"/>
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png"/>
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png"/>
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png"/>
@@ -37,16 +38,21 @@
 </header>
 
 
-<section class="single-product">
+<section class="single-product" itemscope itemtype="https://schema.org/Product">
     <div class="background-image"></div>
     <div>
-        <h2 class="text">Thyme</h2>
+        <ul class="breadcrumb">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="shop.html">Products</a></li>
+            <li class="end-page">Thyme</li>
+        </ul>
+        <h2 class="text" itemprop="name">Thyme</h2>
         <p>Category: savory</p>
-        <p class="text">Its seductive scent brings a pleasant feeling,
+        <p class="text" itemprop="description">Its seductive scent brings a pleasant feeling,
             helps people relax, improves the spirit and creates a more attractive aroma for the dishes.</p>
-        <P class="price"> Price: <span class="style">6$</span> <a href="#">click to Buy </a> </P>
+        <P class="price"> Price: <span itemprop="price" class="style">6$</span> <a href="#">click to Buy </a> </P>
     </div>
-    <img src="assets/img/thyme.jpg" alt="rosemary">
+    <img itemprop="image" src="assets/img/thyme.jpg" alt="rosemary"/>
 </section>
 
 

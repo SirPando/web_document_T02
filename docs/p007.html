@@ -1,14 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="description" content="Snake Plant"/>
     <title>Snake Plant | Sunny Garden</title>
-    <link rel="shortcut icon" href="assets/img/logo_fav.png" type="image/x-icon">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="shortcut icon" href="assets/img/logo_fav.png" type="image/x-icon"/>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="assets/css/styles.css"/>
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png"/>
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png"/>
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png"/>
@@ -37,18 +38,23 @@
 </header>
 
 
-<section class="single-product">
+<section class="single-product" itemscope itemtype="https://schema.org/Product">
     <div class="background-image"></div>
     <div>
-        <h2 class="text">Snake Plant</h2>
+        <ul class="breadcrumb">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="shop.html">Products</a></li>
+            <li class="end-page">Snake Plant</li>
+        </ul>
+        <h2 class="text" itemprop="name">Snake Plant</h2>
         <p>Category: Plant</p>
-        <p class="text">Snake Plant is a tree with strong vitality, but you should not forget them because of that.
+        <p class="text" itemprop="description">Snake Plant is a tree with strong vitality, but you should not forget them because of that.
             Put the plant in enough light with a little shade and it's great. And you should be extremely careful when watering,
             try to keep the soil not too wet, too much water can damage the roots of the plant, so I only need to
             water just enough on the surface of the soil, usually 2-3. I water it once a week. </p>
-        <P class="price"> Price: <span class="style">10$</span> <a href="#">click to Buy </a> </P>
+        <P class="price"> Price: <span itemprop="price" class="style">10$</span> <a href="#">click to Buy </a> </P>
     </div>
-    <img src="assets/img/snakePlant.jpg" alt="Snake Plant">
+    <img itemprop="image" src="assets/img/snakePlant.jpg" alt="Snake Plant"/>
 </section>
 
 

@@ -1,14 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="description" content="savory Lemon Balm"/>
     <title>Lemon Balm | Sunny Garden</title>
-    <link rel="shortcut icon" href="assets/img/logo_fav.png" type="image/x-icon">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="shortcut icon" href="assets/img/logo_fav.png" type="image/x-icon"/>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="assets/css/styles.css"/>
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png"/>
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png"/>
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png"/>
@@ -37,16 +38,21 @@
 </header>
 
 
-<section class="single-product">
+<section class="single-product" itemscope itemtype="https://schema.org/Product">
     <div class="background-image"></div>
     <div>
-        <h2 class="text">Lemon Balm</h2>
+        <ul class="breadcrumb">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="shop.html">Products</a></li>
+            <li class="end-page">Lemon Balm</li>
+        </ul>
+        <h2 class="text" itemprop="name">Lemon Balm</h2>
         <p>Category: savory</p>
-        <p class="text">Lemon balm tea is in the top 8 most exotic and premium teas in the world. People with headaches,
+        <p class="text" itemprop="description">Lemon balm tea is in the top 8 most exotic and premium teas in the world. People with headaches,
             heart palpitations or digestive problems should also use this herbal tea. </p>
-        <P class="price"> Price: <span class="style">6$</span> <a href="#">click to Buy </a> </P>
+        <P class="price"> Price: <span itemprop="price" class="style">6$</span> <a href="#">click to Buy </a> </P>
     </div>
-    <img src="assets/img/lemonBalm.jpg" alt="Lemon Balm">
+    <img itemprop="image" src="assets/img/lemonBalm.jpg" alt="Lemon Balm"/>
 </section>
 
 

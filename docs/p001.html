@@ -1,14 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="description" content="savory rosemary"/>
     <title>Rosemary | Sunny Garden</title>
-    <link rel="shortcut icon" href="assets/img/logo_fav.png" type="image/x-icon">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="shortcut icon" href="assets/img/logo_fav.png" type="image/x-icon"/>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="assets/css/styles.css"/>
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png"/>
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png"/>
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png"/>
@@ -37,17 +38,22 @@
 </header>
 
 
-<section class="single-product">
+<section class="single-product" itemscope itemtype="https://schema.org/Product">
     <div class="background-image"></div>
     <div>
-        <h2 class="text">Rosemary</h2>
+        <ul class="breadcrumb">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="shop.html">Products</a></li>
+            <li class="end-page">Rosemary</li>
+        </ul>
+        <h2 class="text" itemprop="name">Rosemary</h2>
         <p>Category: savory</p>
-        <p class="text">Supports memory enhancement by the scent of Rosemary can help relieve stress, reduce drowsiness,
+        <p class="text" itemprop="description">Supports memory enhancement by the scent of Rosemary can help relieve stress, reduce drowsiness,
             stimulate the brain to remember effectively. - As raw materials for the production of lotions, lotions, bath water,
             conditioners, hair dyes, soaps,... - Contains many nutrients such as calcium, iron, vitamin B6 </p>
-        <P class="price"> Price: <span class="style">8$</span> <a href="#">click to Buy </a> </P>
+        <P class="price"> Price: <span itemprop="price" class="style">8$</span> <a href="#">click to Buy </a> </P>
     </div>
-    <img src="assets/img/rosemary.jpg" alt="rosemary">
+    <img itemprop="image" src="assets/img/rosemary.jpg" alt="rosemary"/>
 </section>
 
 
